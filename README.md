@@ -5,7 +5,7 @@ A Simple CRUD with Express and MySQL
 
 
 # Prerequisites
-Adjust file in /lib/dbjs based on your needs
+Adjust file in /lib/dbjs based on your settings
 
 ## Deployment
 
@@ -15,7 +15,7 @@ First, install all required dependencies
   npm install
 ```
 
-and then 
+and then run
 
 ```bash
   npm start
